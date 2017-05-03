@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1464271648 source:c:\users\ejkpa\documents\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1464272098 source:g:\c\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+

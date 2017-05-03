@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1463058228 source:c:\users\lab01_pcbackup\documents\c\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1463058228 source:c:\users\lab01_pcbackup\desktop\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+

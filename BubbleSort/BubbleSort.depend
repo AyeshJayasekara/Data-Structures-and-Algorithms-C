@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1460975104 source:c:\users\lab01_pcbackup\desktop\dsa using c language\bubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
